@@ -1,0 +1,68 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Mar 2, 2016, 10:43:12 AM
+    Author     : fmiranda
+*/
+@import url(https://fonts.googleapis.com/css?family=Lato);
+
+body{
+    font-family: 'Lato', sans-serif;
+}
+
+#content{
+    margin-top: 10px;
+}
+
+footer p{
+    margin-top: 10px;
+    text-align: center;
+}
+
+.home_image_background {
+    margin-top: 70px;
+    background: url(../images/advogados.png);
+    background-size: cover;
+    background-position-y: -200px;
+    background-repeat: no-repeat;
+    height: 300px;
+}
+
+.logo{
+    color: #fff;
+    font-size: 50px;
+    margin-top: 50px;
+    margin-left: 50px;
+    text-shadow: 5px 5px 5px #000;
+}
+
+.container{
+	padding-top: 20px;
+}
+
+#contato {
+	padding-bottom: 20px;
+	background: #A7E6B9;
+}
+
+.contatoForm {
+	text-align: left;
+}
+
+.contatoForm label{
+	font-weight: bold;
+	text-align: left;
+	display:block;
+}
+
+.contatoForm input{
+	margin-bottom: 10px;
+}
+
+#institucional{
+        padding-bottom:20px;  
+        background-color: #F8F8FF;
+}
